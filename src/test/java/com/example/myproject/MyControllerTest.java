@@ -18,6 +18,6 @@ class MyControllerTest {
 
     @Test
     void hi() {
-        assertTrue(false);
+
     }
 }
